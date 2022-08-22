@@ -47,3 +47,10 @@ Algunos comando útiles son:
 Compilar utilizando `cargo build`
 
 Generar y abrir la documentación utilizando `cargo doc --open`
+
+## Bibliografia Relacionada
+
+* [Rust Book: Capitulo 1](https://doc.rust-lang.org/book/ch01-00-getting-started.html)
+* [Rust Book: Capitulo 2](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
+* [Rust Book: Capitulo 3](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html)
+* Rust in Action: Capitulos 2 y 3
