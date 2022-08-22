@@ -1,6 +1,6 @@
-extern crate primer_clase;
+extern crate clase1;
 
-use primer_clase::sort::sort;
+use clase1::sort::sort;
 
 #[test]
 fn sort_short() {
