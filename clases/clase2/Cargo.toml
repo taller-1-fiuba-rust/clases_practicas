@@ -1,0 +1,29 @@
+[package]
+name = "clase2"
+version = "0.1.0"
+authors = ["mlafroce <mlafroce@gmail.com>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "boxes"
+path = "src/boxes.rs"
+
+[[bin]]
+name = "lifetime"
+path = "src/lifetime.rs"
+
+[[bin]]
+name = "poly"
+path = "src/poly.rs"
+
+[[bin]]
+name = "scopes"
+path = "src/scopes.rs"
+
+[[bin]]
+name = "closure"
+path = "src/closure_borrow.rs"
