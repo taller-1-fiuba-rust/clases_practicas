@@ -4,6 +4,9 @@ struct Perro {
     nombre: String,
 }
 
+fn imprimir<T>(algo: T) where T: std::fmt::Debug + Clone {
+    println!("{:?}", algo)
+}
 #[derive(Debug)]
 struct Vaca {
     nombre: String,

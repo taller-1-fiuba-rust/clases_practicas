@@ -27,3 +27,7 @@ path = "src/scopes.rs"
 [[bin]]
 name = "closure"
 path = "src/closure_borrow.rs"
+
+[[bin]]
+name = "rc"
+path = "src/rc.rs"
