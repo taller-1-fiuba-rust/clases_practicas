@@ -9,3 +9,7 @@ version = "0.1.0"
 [[package]]
 name = "clase2"
 version = "0.1.0"
+
+[[package]]
+name = "clase3"
+version = "0.1.0"
