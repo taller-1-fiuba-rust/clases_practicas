@@ -1,0 +1,27 @@
+[package]
+name = "clase4"
+version = "0.1.0"
+authors = ["mlafroce <mlafroce@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "00-client"
+path = "src/00_client.rs"
+
+[[bin]]
+name = "00-server"
+path = "src/00_server.rs"
+
+[[bin]]
+name = "01-client"
+path = "src/01_bin_protocol_cli.rs"
+
+[[bin]]
+name = "01-server"
+path = "src/01_bin_protocol_srv.rs"
+
+[[bin]]
+name = "02-open_ports"
+path = "src/02_open_ports.rs"

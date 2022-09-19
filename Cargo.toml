@@ -3,4 +3,5 @@ members = [
     "clases/clase1",
     "clases/clase2",
     "clases/clase3",
+    "clases/clase4",
 ]
