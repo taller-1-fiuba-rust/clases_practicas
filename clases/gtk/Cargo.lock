@@ -80,26 +80,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "clase-testing"
-version = "0.1.0"
-
-[[package]]
-name = "clase1"
-version = "0.1.0"
-
-[[package]]
-name = "clase2"
-version = "0.1.0"
-
-[[package]]
-name = "clase3"
-version = "0.1.0"
-
-[[package]]
-name = "clase4"
-version = "0.1.0"
-
-[[package]]
 name = "field-offset"
 version = "0.3.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
