@@ -1,9 +1,10 @@
 [workspace]
 members = [
-    "clases/clase1",
-    "clases/clase2",
-    "clases/clase3",
-    "clases/clase4",
-    "clases/clase6",
-    "clases/gtk",
+	"clases/clase1",
+	"clases/clase2",
+	"clases/clase3",
+	"clases/clase4",
+	"clases/clase6",
+	"clases/clase_egui",
+	"clases/gtk",
 ]
